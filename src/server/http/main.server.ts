@@ -1,3 +1,3 @@
 const http = game.GetService("HttpService")
 
-print("Successfully registered HTTPService")
+print("Successfully registered HTTPService, cute test")
