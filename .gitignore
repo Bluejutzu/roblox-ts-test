@@ -2,4 +2,4 @@
 /out
 /include
 *.tsbuildinfo
-*.project.json
+default.project.json
